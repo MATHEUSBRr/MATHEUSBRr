@@ -1,8 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Matheus Brasileiro and my nickname is... sorry, I don't have a nickname yet!
-- 🔭I'm currently studying Information Systems and taking programming courses on the alura website
-- I am learning
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://vetores.org/d/c-plus-plus.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/376344/python.svg" width="40" height="40"/>
+- 🔭I'm currently studying Information Systems
 - ## Contatos:
 
 <div>
